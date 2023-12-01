@@ -1,0 +1,9 @@
+{
+    "production": {
+        "aws_region": "us-east-1",
+        "django_settings": "blog_project.settings",
+        "project_name": "blog_project",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-blog-project"
+    }
+}
